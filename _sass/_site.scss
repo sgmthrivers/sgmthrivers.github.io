@@ -78,3 +78,12 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	transition: all 0.2s ease;
 }
+
+footer {
+  p {
+    font-size: 0.8rem;
+  }
+  margin-top: 2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
