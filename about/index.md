@@ -11,4 +11,6 @@ modified: 2018-01-01
 
 This site is **satire**.
 
+Follow us on twitter at [@sgmthrivers](https://twitter.com/sgmthrivers)
+
 Have a story you'd like to share? Get in touch at [sgmthrivers@protonmail.com](mailto:sgmthrivers@protonmail.com).
